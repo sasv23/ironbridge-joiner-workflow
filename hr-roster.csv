@@ -1,0 +1,15 @@
+EmployeeID,FirstName,LastName,Department,Title,Branch,ManagerID,StartDate
+E2001,Grace,Okafor,Retail Banking,Branch Manager,Riverside,E1001,2026-11-02
+E2002,Jordan,Smith,Retail Banking,Teller,Riverside,E2001,2026-11-02
+E2003,Aaliyah,Brooks,Retail Banking,Teller,Riverside,E2001,2026-11-02
+E2004,Tomas,Reyes,Retail Banking,Teller,Riverside,E2001,2026-11-02
+E2005,Ethan,Cole,Retail Banking,Head Teller,Riverside,E2001,2026-11-02
+E2006,Simone,Adeyemi,Retail Banking,Teller,Oak Hill,E2007,2026-11-02
+E2007,Patrick,Lunde,Retail Banking,Branch Manager,Oak Hill,E1001,2026-11-02
+E2008,Renata,Alvarez,Retail Banking,Teller,Oak Hill,E2007,2026-11-02
+E2009,Malik,Osei,Lending,Loan Officer,HQ,E1006,2026-11-02
+E2010,Hannah,Breslin,Lending,Loan Officer,HQ,E1006,2026-11-02
+E2011,Cora,Nishimura,Compliance,Compliance Officer,HQ,E1001,2026-11-02
+E2012,Victor,Hallam,Operations,Back Office Specialist,HQ,E1013,2026-11-02
+E2013,Imani,Clarke,Operations,Branch Operations Specialist,HQ,E1013,2026-11-02
+E2014,Darnell,Pryor,Wire Operations,Wire Operations Specialist,HQ,E1001,2026-11-02

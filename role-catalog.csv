@@ -1,0 +1,7 @@
+Role,Titles,License,Description
+ROLE-BranchManager,Branch Manager,Business Premium,Branch operations and reporting. No wire system access
+ROLE-Teller,Teller;Head Teller,Business Premium,Teller platform and branch shared drive. No wire system access
+ROLE-LoanOfficer,Loan Officer,Business Premium,Loan origination and credit reports
+ROLE-Compliance,Compliance Officer,Business Premium,Audit log read access and compliance shared drive
+ROLE-Operations,Back Office Specialist;Branch Operations Specialist,Business Premium,Back office and branch operations systems
+ROLE-WireOperations,Wire Operations Specialist,Business Premium,Wire operations desk. Wire system rights are governed separately and are NOT granted by this role

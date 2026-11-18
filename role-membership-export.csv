@@ -1,0 +1,10 @@
+﻿displayName,id,groupType,membershipType,mail,source,mailEnabled,onPremisesSyncEnabled
+All Company,66ce65a0-443f-4682-a084-9cff84496d7c,Microsoft 365,assigned,allcompany@IronbridgeVenkateshP2.onmicrosoft.com,Cloud,True,
+Group for Answers in Viva Engage – DO NOT DELETE 1521582442586112,52b1ae94-9f06-49f1-834d-ffe235a1acaa,Microsoft 365,assigned,groupforanswersinvivaengagedonotdelete1521582442586112260@IronbridgeVenkateshP2.onmicrosoft.com,Cloud,True,
+Ironbridge Bank & Trust,2dd85d93-624f-467b-9662-e0b4ec32c778,Microsoft 365,assigned,IronbridgeBankTrust@IronbridgeVenkateshP2.onmicrosoft.com,Cloud,True,
+ROLE-BranchManager,b7463845-b578-45cc-9052-0dcbd8bd17c0,Security,assigned,,Cloud,False,
+ROLE-Compliance,d9dd4b23-1e20-4bce-881b-c330feda3cd6,Security,assigned,,Cloud,False,
+ROLE-LoanOfficer,d0bb6e5c-27b6-4fe8-8ff0-272ebb486fbe,Security,assigned,,Cloud,False,
+ROLE-Operations,9abd9cfa-d358-4242-a30b-e15a6ae51953,Security,assigned,,Cloud,False,
+ROLE-Teller,fb8e36d9-4bb5-4dd9-bb97-2bcda1b4adbd,Security,assigned,,Cloud,False,
+ROLE-WireOperations,c681b671-fa46-4a53-b5c6-9c8fbe3af593,Security,assigned,,Cloud,False,
