@@ -6,7 +6,7 @@
 
 ## Video Walkthrough
 
-**[Watch the 3 to 7 minute walkthrough](ADD_YOUR_VIDEO_LINK_HERE)**
+**[Watch the 3 to 7 minute walkthrough](https://www.loom.com/share/00fc58c1c1514f41a47d2ef10fe057e0)**
 
 ---
 
